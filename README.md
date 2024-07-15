@@ -1,3 +1,4 @@
+![Screenshot 2024-07-07 at 22 31 26](https://github.com/ayuboketch/Admin-Dashboard/assets/17433791/af4998d0-b8ea-4dc9-9d59-679e17e06d99)
 # Admin-Dashboard
 Admin Dashboard - Intermediate HTML and CSS Course
 # Admin Dashboard
@@ -5,16 +6,6 @@ Admin Dashboard - Intermediate HTML and CSS Course
 This repository contains the Admin Dashboard project developed as part of the Intermediate HTML and CSS Course. The project demonstrates the creation of a responsive and functional admin dashboard using HTML and CSS.
 
 ## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
